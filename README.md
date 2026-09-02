@@ -28,5 +28,6 @@ Every investigation in this repository adheres to a standardized SOC report meth
 
 ## Completed Labs
 
-* **[Lab 01: Windows System Reconnaissance and Initial Triage](Windows-SOC/01-System-Reconnaissance/)**  
+* **[Lab 01: Windows System Reconnaissance and Initial Triage](Windows-SOC/01-System-Reconnaissance/)**
+* * **[Lab 02: User & Privilege Investigation](Windows-SOC/02-User-Privilege-Investigation/)** — Access token privilege analysis, UAC token restriction auditing, and least-privilege verification.
   *Baseline endpoint identification, user account enumeration, UAC integrity level verification, and system architecture profiling using native CLI and PowerShell tooling.*
