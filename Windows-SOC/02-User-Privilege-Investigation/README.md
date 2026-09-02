@@ -34,8 +34,8 @@ This lab evaluates account states, group memberships, and security privileges in
 
 | Investigation Stage | Output Evidence | SOC Security Relevance |
 | :--- | :--- | :--- |
-| **01. Session Identity** | ![Whoami Context](screenshots/whoami.png) | Baseline user context identification |
-| **02. Privilege Token Audit** | ![Privilege Audit](screenshots/privileges.png) | Access token privilege & UAC enforcement check |
+| **01. Session Identity**| Baseline user context identification |
+| **02. Privilege Token Audit** | Access token privilege & UAC enforcement check |
 
 ---
 
