@@ -1,0 +1,15 @@
+PS C:\Users\timot> systeminfo
+Host Name:                 T
+OS Name:                   Microsoft Windows 11 Pro
+OS Version:                10.0.26100 N/A Build 26100
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+Registered Owner:          [REDACTED_EMAIL]
+Product ID:                [REDACTED_PRODUCT_ID]
+System Manufacturer:       HP
+System Model:              HP ProBook 430 G6
+System Type:               x64-based PC
+Domain:                    WORKGROUP
+Hotfix(es):                5 Hotfix(es) Installed.
+Network Card(s):           Intel(R) Wireless-AC 9560 160MHz
+                           IP address(es): [REDACTED_LOCAL_IP]
