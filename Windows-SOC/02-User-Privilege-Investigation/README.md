@@ -32,8 +32,8 @@ This lab evaluates account states, group memberships, and security privileges in
 
 ## Command Evidence
 
-| Investigation Stage | Output Evidence | SOC Security Relevance |
-| :--- | :--- | :--- |
+| Investigation Stage | SOC Security Relevance |
+| :--- | :--- |
 | **01. Session Identity**| Baseline user context identification |
 | **02. Privilege Token Audit** | Access token privilege & UAC enforcement check |
 
